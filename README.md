@@ -1,2 +1,2 @@
-# portif-lio-n8n
-IA generativa, automação 
+echo "# Meu projeto n8n" > README.md
+
